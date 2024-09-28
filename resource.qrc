@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Page1_intro.png</file>
+        <file>image/Olympic.ico</file>
+        <file>image/Medals.jpg</file>
+        <file>image/MedalsApparent.png</file>
+        <file>image/Project.gif</file>
+        <file>image/projects.png</file>
+    </qresource>
+</RCC>
